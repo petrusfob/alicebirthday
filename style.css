@@ -8,6 +8,9 @@ body{
   background:#333;
   margin: auto 0;
 }
+canvas {
+  width: 100%;
+}
 .content{
   position:fixed;
   z-index:999;
