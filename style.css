@@ -9,7 +9,7 @@ body{
   margin: auto 0;
 }
 .content{
-  position:absolute;
+  position:fixed;
   z-index:999;
   color:#fff;
   top:50%;
