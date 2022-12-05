@@ -43,9 +43,6 @@ hr{
   max-width: 65px;
   opacity: 1;
 }
-.buffer {
-  height: 5rem;
-}
 .btn{
   font-weight: 700;
   border-radius: 300px;
